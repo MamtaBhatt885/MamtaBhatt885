@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mamta Bhatt</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<img align="right" alt="coding" width="500" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamtabhatt885&label=Profile%20views&color=0e75b6&style=flat" alt="mamtabhatt885" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
