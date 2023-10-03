@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MamtaBhatt885
-- 🌱 I’m currently learning app developmnet.
+- 🌱 I’m currently learning app development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...You can text me on linkedin https://www.linkedin.com/in/mamta-bhatt-aa589a1b8/. This is my profile link.
 
